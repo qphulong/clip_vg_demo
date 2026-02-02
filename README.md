@@ -34,7 +34,7 @@ After downloading, place the files so the directory structure looks like this:
 
 ```txt
 ./pretrained/flickr/best_checkpoint.pth
-./pretrained/flickr/gref.pth
+./pretrained/gref/best_checkpoint.pth
 ```
 
 Recommended datasets/checkpoints to use:
